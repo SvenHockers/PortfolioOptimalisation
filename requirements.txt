@@ -1,0 +1,17 @@
+# General Packages
+numpy == 2.2.6
+matplotlib == 3.10.3
+pandas == 2.2.3
+
+# Finance Packages
+yfinance == 0.2.61
+
+# Quantum 
+qiskit == 2.0.2
+qiskit-aer == 0.17.0
+qiskit-algorithms == 0.3.1
+qiskit-ibm-runtime == 0.40.0
+
+# Other
+tqdm == 4.67.1
+ipykernel == 6.29.5

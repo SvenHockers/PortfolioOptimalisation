@@ -6,6 +6,9 @@ pandas == 2.2.3
 # Finance Packages
 yfinance == 0.2.61
 
+# Data Science, Solvers and other computational tools 
+cvxpy == 1.6.5
+
 # Quantum 
 qiskit == 2.0.2
 qiskit-aer == 0.17.0

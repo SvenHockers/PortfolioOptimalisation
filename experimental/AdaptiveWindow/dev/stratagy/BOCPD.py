@@ -116,7 +116,7 @@ class BOCPDDetector:
 """ 
 And a wrapper for the BOCPD to integrate it into the simulator
 """
-class PortfolioStrategy(TemplateStrategy):
+class BOCPD(TemplateStrategy):
     """
     Implements a BOCPD+BFS mean-variance strategy.
     Inherits from BaseStrategy. Implements .step().
